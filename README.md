@@ -2,71 +2,107 @@
 
 ### Just a tech.
 
-I'm a university student who enjoys **learning, building, and experimenting**.
+I'm a university student interested in **software development, technology, and digital creativity**.
 
-I'm interested in **full-stack development, backend engineering, UI/UX, and digital design**. I like understanding how things work, trying different approaches, and turning ideas into something I can actually use.
+My interests span **full-stack development, backend engineering, UI/UX design, and digital media**. I enjoy understanding how things work, experimenting with different technologies, and turning ideas into functional products.
 
-I'm still exploring different areas of technology, but that's part of what I enjoy about it. I don't want to limit myself to one stack or one way of doing things.
-
-## What I work with
-
-### Development
-
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,sass,js)](https://skillicons.dev)
-
-### Design & Creative
-
-[![My Skills](https://skillicons.dev/icons?i=photoshop,aftereffects,premiere,illustrator)](https://skillicons.dev)
-
-## Currently learning
-
-* **Advanced Python**
-* **Django**
-* **UI/UX Design**
-* **Algorithms & Problem Solving**
-
-I already have a solid foundation in programming, so right now I'm focused on going deeper rather than just collecting more technologies.
-
-## What I'm working on
-
-I'm currently building my own website and using it as a place to put what I've been learning into practice.
-
-I also like working on **experimental projects, small applications, and semi-projects**. Some become something useful, some don't go anywhere, and some exist simply because I wanted to know if I could build them.
-
-For me, that's one of the best parts of programming: having an idea, figuring out how to make it work, and learning something along the way.
-
-## Beyond code
-
-There is so many more things that I enjoy spending my time on them like:
-
-* 🥋 **Martial arts**
-* 💪 **Calisthenics**
-* 🎬 **Motion graphics**
-* ✏️ **Drawing & design**
-* 🎧 **Music**
-
-### Music
-
-I listen to a lot of different musics, but **Central Cee** is one of the artists I come back to most.
-
-**Top Freestyle** is probably one of my favorite tracks.
-
-## A little about me
-
-I'm a **fast learner, adaptable, creative, and naturally curious**.
-
-I like experimenting instead of always following the obvious path, and I usually learn much faster when I can actually build something rather than just read about it.
-
-My long-term goal is to become a **full-stack developer and designer** who can take an idea from the first sketch, through the code, and into a finished product.
-
-I'm still learning and have a lot more to explore, but I'm enjoying the process.
-
-## How to reach me
-
-📧 **Email:** [mahdipaydar2007@gmail.com](mailto:mahdipaydar2007@gmail.com)
-
-📸 **Instagram:** [@im_mehdi_2007](https://instagram.com/im_mehdi_2007)
+I value curiosity, practical experience, and continuous improvement. I'm always exploring new concepts and finding ways to put them into practice.
 
 ---
 
-**Thanks for stopping by.**
+## 🛠️ Skills & Technologies
+
+### Development
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,sass,js,react,wordpress)](https://skillicons.dev)
+
+### Design & Creative Tools
+
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere)](https://skillicons.dev)
+
+---
+
+## 📖 Currently Exploring
+
+- Advanced Python
+- UI/UX Design
+- Algorithms & Problem Solving
+
+---
+
+## 🚀 Featured Projects
+
+### [Neonboard](https://github.com/mahdipaydar007/neonboard)
+
+A cyberpunk-inspired task management application designed around productivity, privacy, and simplicity.
+
+- Task and project management
+- Kanban board and calendar
+- Timers and recurring routines
+- Local storage, offline functionality, and data backup
+
+**Built with:** HTML, CSS, JavaScript
+
+[Live Demo](https://neonboard-tan.vercel.app/) · [Source Code](https://github.com/mahdipaydar007/neonboard)
+
+### [Interactive Avatars](https://github.com/mahdipaydar007/interactive-avatars)
+
+An interactive team presentation featuring nine animated vector avatars, each with its own unique animation.
+
+- Interactive hover and touch animations
+- Responsive layout
+- Lightweight implementation
+- Accessible interactions
+
+**Built with:** HTML, CSS, JavaScript
+
+[Live Demo](https://interactive-avatars-umber.vercel.app/) · [Source Code](https://github.com/mahdipaydar007/interactive-avatars)
+
+### [Dot Globe](https://github.com/mahdipaydar007/dot-globe)
+
+An interactive visualization of Earth built from thousands of animated dots, featuring glowing capitals and shooting stars.
+
+- Interactive globe rotation
+- Animated shooting stars
+- Highlighted world capitals
+- Custom 3D-style visualization
+
+**Built with:** HTML, CSS, JavaScript
+
+[Live Demo](https://dot-globe-ten.vercel.app/) · [Source Code](https://github.com/mahdipaydar007/dot-globe)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahdipaydar007&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🎨 Beyond Technology
+
+Outside of programming, I spend my time exploring other interests:
+
+- 🥋 Martial Arts
+- 💪 Calisthenics
+- 🎬 Motion Graphics
+- ✏️ Drawing & Digital Design
+- 🎧 Music
+
+I'm into a variety of music genres, and **Central Cee** is one of the artists I listen to most. *Top Freestyle* is one of my favorite tracks.
+
+---
+
+## 📬 Get in Touch
+
+- **Website:** [mahdipaydar](https://mahdipaydar.ir)
+- **Email:** [mahdipaydar2007@gmail.com](mailto:mahdipaydar2007@gmail.com)
+- **Instagram:** [@im_mehdi_2007](https://instagram.com/im_mehdi_2007)
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by!</i>
+</p>
